@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "https://nextjs-ts-course-6dcff-default-rtdb.firebaseio.com/posts"
+  }
+}
